@@ -4,6 +4,9 @@ public class OutputString {
     private String prefix;
     private String name;
 
+    // Сделано по опыту прежней работы на Java
+    // Требовали создал класс с конструктором, должен быть и пустой конструктор. Почему? 
+    //Это просто требование от фирмы, или имеет какй-то сакральный смысл
     public OutputString(){
         
     }
